@@ -3,7 +3,7 @@ This App belongs to an excercise of the course: "**Python Tutorial for Beginners
 
 It's recommended to do the following steps in order to run this app properly: 
 
-   -First install the dependencies and the neccesary packages specified in the requirements.txt file.
+   -First install the dependencies and the neccesary packages specified in the requirements.txt file. (*In the console terminal write the     command: pip install -r requirements.txt*)
  
    -If there are pending migrations, execute them. (*In the console terminal write the command: manage.py migrate*)
  
