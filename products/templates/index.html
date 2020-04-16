@@ -5,8 +5,8 @@
     <h1>Products</h1>
     <div class="row">
         {% for product in products %}
-         <div class="col">
-            <div class="card" style="width: 18rem;">
+         <div class="col-md-4">
+            <div class="card" style="width: 18;">
              <img class="card-img-top" src="{{ product.image_url }} " alt= "{{product.name}}" >
               <div class="card-body">
                 <h5 class="card-title"> {{ product.name}}</h5>
